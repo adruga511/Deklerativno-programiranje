@@ -1,0 +1,4444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-637">
+  <generator>Windows Inform 7 6M62</generator>
+  <activeNode nodeId="node-1156"/>
+  <item nodeId="node-637">
+    <command xml:space="preserve">proba</command>
+    <result xml:space="preserve">Survivor&#x000A;An Interactive Fiction by Ana&#x000A;Release 1 / Serial number 220703 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Kroz pra&#x0161;umu prolazi sna&#x017E;na rijeka. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;Crni plodovi, neobi&#x010D;nog izgleda i mirisa.&#x000A;&#x000A;Osjetiv&#x0161;i &#x010D;ovjekovu prisutnost &#x017E;ena ma&#x010D;ka je do&#x0161;la i cijelo vrijeme je njen pogledam usmjeren ka tebi.&#x000A;&#x000A;You can also see Prvi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-638"/>
+      <child nodeId="node-639"/>
+      <child nodeId="node-663"/>
+      <child nodeId="node-715"/>
+      <child nodeId="node-720"/>
+      <child nodeId="node-722"/>
+      <child nodeId="node-768"/>
+      <child nodeId="node-771"/>
+      <child nodeId="node-775"/>
+      <child nodeId="node-815"/>
+      <child nodeId="node-825"/>
+      <child nodeId="node-826"/>
+      <child nodeId="node-835"/>
+      <child nodeId="node-841"/>
+      <child nodeId="node-845"/>
+      <child nodeId="node-848"/>
+      <child nodeId="node-856"/>
+      <child nodeId="node-867"/>
+      <child nodeId="node-889"/>
+      <child nodeId="node-892"/>
+      <child nodeId="node-903"/>
+      <child nodeId="node-935"/>
+      <child nodeId="node-938"/>
+      <child nodeId="node-940"/>
+      <child nodeId="node-944"/>
+      <child nodeId="node-955"/>
+      <child nodeId="node-957"/>
+      <child nodeId="node-964"/>
+      <child nodeId="node-976"/>
+      <child nodeId="node-979"/>
+      <child nodeId="node-983"/>
+      <child nodeId="node-996"/>
+      <child nodeId="node-1011"/>
+      <child nodeId="node-1014"/>
+      <child nodeId="node-1015"/>
+      <child nodeId="node-1029"/>
+      <child nodeId="node-1051"/>
+      <child nodeId="node-1061"/>
+      <child nodeId="node-1064"/>
+      <child nodeId="node-1072"/>
+      <child nodeId="node-1080"/>
+      <child nodeId="node-1082"/>
+      <child nodeId="node-1083"/>
+      <child nodeId="node-1087"/>
+      <child nodeId="node-1097"/>
+      <child nodeId="node-1100"/>
+      <child nodeId="node-1106"/>
+      <child nodeId="node-1114"/>
+    </children>
+  </item>
+  <item nodeId="node-638">
+    <command xml:space="preserve">look at kovceg</command>
+    <result xml:space="preserve">Zlatne je boje, prekriven mno&#x0161;tvom dragulja!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-639">
+    <command xml:space="preserve">look at torba</command>
+    <result xml:space="preserve">Zlatne je boje i mo&#x017E;e&#x0161; je otvoriti!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-640"/>
+      <child nodeId="node-645"/>
+      <child nodeId="node-647"/>
+      <child nodeId="node-655"/>
+    </children>
+  </item>
+  <item nodeId="node-640">
+    <command xml:space="preserve">open troba</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-641"/>
+    </children>
+  </item>
+  <item nodeId="node-641">
+    <command xml:space="preserve">  open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a lampa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-642"/>
+    </children>
+  </item>
+  <item nodeId="node-642">
+    <command xml:space="preserve">take lampa</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-643"/>
+    </children>
+  </item>
+  <item nodeId="node-643">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a lampa&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-644"/>
+    </children>
+  </item>
+  <item nodeId="node-644">
+    <command xml:space="preserve">look at lampa</command>
+    <result xml:space="preserve">Lampa je crne boje, slu&#x017E;i osvjetljavanju prostora kad se spusti mrak.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-645">
+    <command xml:space="preserve">open a gtorba</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-646"/>
+    </children>
+  </item>
+  <item nodeId="node-646">
+    <command xml:space="preserve">open a torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-647">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-648"/>
+      <child nodeId="node-652"/>
+    </children>
+  </item>
+  <item nodeId="node-648">
+    <command xml:space="preserve">take a boca</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-649"/>
+    </children>
+  </item>
+  <item nodeId="node-649">
+    <command xml:space="preserve">inventroy</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-650"/>
+    </children>
+  </item>
+  <item nodeId="node-650">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a boca&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-651"/>
+    </children>
+  </item>
+  <item nodeId="node-651">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">There's nothing suitable to drink here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-652">
+    <command xml:space="preserve">take boca</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-653"/>
+    </children>
+  </item>
+  <item nodeId="node-653">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a boca&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-654"/>
+    </children>
+  </item>
+  <item nodeId="node-654">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ugh. You're probably going to r.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-655">
+    <command xml:space="preserve">look at drvo </command>
+    <result xml:space="preserve">Veliko i rasko&#x0161;no drvo &#x010D;udnih plodova.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-656"/>
+    </children>
+  </item>
+  <item nodeId="node-656">
+    <command xml:space="preserve">look at ljubi&#x010D;asto</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-657"/>
+    </children>
+  </item>
+  <item nodeId="node-657">
+    <command xml:space="preserve">look at veliko </command>
+    <result xml:space="preserve">Veliko i rasko&#x0161;no drvo &#x010D;udnih plodova.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-658"/>
+    </children>
+  </item>
+  <item nodeId="node-658">
+    <command xml:space="preserve">look at plodovi</command>
+    <result xml:space="preserve">Crni plodovi se &#x010D;ine otrovni.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-659"/>
+    </children>
+  </item>
+  <item nodeId="node-659">
+    <command xml:space="preserve">take plodovi</command>
+    <result xml:space="preserve">That's hardly portable.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-660"/>
+    </children>
+  </item>
+  <item nodeId="node-660">
+    <command xml:space="preserve">eat plodovi</command>
+    <result xml:space="preserve">Oprez plodovi nisu jestivi jer su otrovni!!!&#x000A;&#x000A;That's plainly inedible.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-661"/>
+    </children>
+  </item>
+  <item nodeId="node-661">
+    <command xml:space="preserve">eat plodovi</command>
+    <result xml:space="preserve">Oprez plodovi nisu jestivi jer su otrovni!!!&#x000A;&#x000A;That's plainly inedible.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-662"/>
+    </children>
+  </item>
+  <item nodeId="node-662">
+    <command xml:space="preserve">eat torba</command>
+    <result xml:space="preserve">That's plainly inedible.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-663">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening Treci portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-664"/>
+      <child nodeId="node-668"/>
+      <child nodeId="node-712"/>
+      <child nodeId="node-1060"/>
+      <child nodeId="node-1120"/>
+    </children>
+  </item>
+  <item nodeId="node-664">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;You can also see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-665"/>
+      <child nodeId="node-667"/>
+    </children>
+  </item>
+  <item nodeId="node-665">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Pustinja&#x000A;You can see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-666"/>
+    </children>
+  </item>
+  <item nodeId="node-666">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;You can also see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-667">
+    <command xml:space="preserve">go portal</command>
+    <result xml:space="preserve">(first opening Portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-668">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-669"/>
+      <child nodeId="node-673"/>
+    </children>
+  </item>
+  <item nodeId="node-669">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;You can also see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-670"/>
+    </children>
+  </item>
+  <item nodeId="node-670">
+    <command xml:space="preserve">go west</command>
+    <result xml:space="preserve">Pustinja&#x000A;You can see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-671"/>
+    </children>
+  </item>
+  <item nodeId="node-671">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;You can also see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-672"/>
+    </children>
+  </item>
+  <item nodeId="node-672">
+    <command xml:space="preserve">open portal</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-673">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-674"/>
+      <child nodeId="node-684"/>
+    </children>
+  </item>
+  <item nodeId="node-674">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-675"/>
+    </children>
+  </item>
+  <item nodeId="node-675">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;You can also see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-676"/>
+    </children>
+  </item>
+  <item nodeId="node-676">
+    <command xml:space="preserve">go pustinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-677"/>
+    </children>
+  </item>
+  <item nodeId="node-677">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-678"/>
+    </children>
+  </item>
+  <item nodeId="node-678">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-679"/>
+    </children>
+  </item>
+  <item nodeId="node-679">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Pustinja&#x000A;You can see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-680"/>
+    </children>
+  </item>
+  <item nodeId="node-680">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening Portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-681"/>
+    </children>
+  </item>
+  <item nodeId="node-681">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;You can also see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-682"/>
+    </children>
+  </item>
+  <item nodeId="node-682">
+    <command xml:space="preserve">look at torba</command>
+    <result xml:space="preserve">Zlatne je boje i mo&#x017E;e&#x0161; je otvoriti!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-683"/>
+    </children>
+  </item>
+  <item nodeId="node-683">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a lampa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-684">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-685"/>
+    </children>
+  </item>
+  <item nodeId="node-685">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode and a knjiga.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-686"/>
+      <child nodeId="node-693"/>
+    </children>
+  </item>
+  <item nodeId="node-686">
+    <command xml:space="preserve">take knjiga</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-687"/>
+    </children>
+  </item>
+  <item nodeId="node-687">
+    <command xml:space="preserve">throw knjiga into rijeka</command>
+    <result xml:space="preserve">Bacio si knjigu u rijeku, a u tom trenutku pokrenuo se ogroman vir koji je bacio nazad knjigu do tebe. Ne&#x0161;to se promijenilo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-688"/>
+    </children>
+  </item>
+  <item nodeId="node-688">
+    <command xml:space="preserve">look knjiga</command>
+    <result xml:space="preserve">Bravo! Portal se otvorio i mo&#x017E;e&#x0161; prije&#x0107;i dalje!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-689"/>
+    </children>
+  </item>
+  <item nodeId="node-689">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;&#x000A;Pustinja&#x000A;Sunce pi&#x010D;i, nema hlada, temperatura se&#x017E;e preko 40 stupnjeva. Oko tebe je sve pijesak, a jedino &#x0161;to ima&#x0161; je deva. Na jugu se nalazi portal za prelazak na tre&#x0107;i nivo.&#x000A;&#x000A;You can see Prvi portal and Drugi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-690"/>
+    </children>
+  </item>
+  <item nodeId="node-690">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-691"/>
+    </children>
+  </item>
+  <item nodeId="node-691">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening Drugi portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-692"/>
+    </children>
+  </item>
+  <item nodeId="node-692">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Kroz pra&#x0161;umu prolazi sna&#x017E;na rijeka. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;Crni plodovi, neobi&#x010D;nog izgleda i mirisa.&#x000A;&#x000A;Osjetiv&#x0161;i &#x010D;ovjekovu prisutnost &#x017E;ena ma&#x010D;ka je do&#x0161;la i cijelo vrijeme je njen pogledam usmjeren ka tebi.&#x000A;&#x000A;You can also see Prvi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-693">
+    <command xml:space="preserve">look boca</command>
+    <result xml:space="preserve">Boca &#x010D;iste i pitke vode koja se mo&#x017E;e popiti.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-694"/>
+    </children>
+  </item>
+  <item nodeId="node-694">
+    <command xml:space="preserve">drink boca </command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila i odmah nestala iz mojih ruku. Bolje da &#x0161;to prije odem iz ove pra&#x0161;ume!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-695"/>
+    </children>
+  </item>
+  <item nodeId="node-695">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-696"/>
+    </children>
+  </item>
+  <item nodeId="node-696">
+    <command xml:space="preserve">take boca</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-697"/>
+    </children>
+  </item>
+  <item nodeId="node-697">
+    <command xml:space="preserve">take knjiga</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-698"/>
+    </children>
+  </item>
+  <item nodeId="node-698">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a knjiga&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-699"/>
+    </children>
+  </item>
+  <item nodeId="node-699">
+    <command xml:space="preserve">throw knjiga into rijeka</command>
+    <result xml:space="preserve">Bacio si knjigu u rijeku, a u tom trenutku pokrenuo se ogroman vir koji je bacio nazad knjigu do tebe. Ne&#x0161;to se promijenilo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-700"/>
+    </children>
+  </item>
+  <item nodeId="node-700">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-701"/>
+    </children>
+  </item>
+  <item nodeId="node-701">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-702"/>
+    </children>
+  </item>
+  <item nodeId="node-702">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-703"/>
+    </children>
+  </item>
+  <item nodeId="node-703">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;&#x000A;Pustinja&#x000A;Sunce pi&#x010D;i, nema hlada, temperatura se&#x017E;e preko 40 stupnjeva. Oko tebe je sve pijesak, a jedino &#x0161;to ima&#x0161; je deva. Na jugu se nalazi portal za prelazak na tre&#x0107;i nivo.&#x000A;&#x000A;U&#x017E;areni pijesak lako propada pod nogama.&#x000A;&#x000A;You can also see Prvi portal and Drugi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-704"/>
+    </children>
+  </item>
+  <item nodeId="node-704">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Kroz pra&#x0161;umu prolazi sna&#x017E;na rijeka. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;Crni plodovi, neobi&#x010D;nog izgleda i mirisa.&#x000A;&#x000A;Osjetiv&#x0161;i &#x010D;ovjekovu prisutnost &#x017E;ena ma&#x010D;ka je do&#x0161;la i cijelo vrijeme je njen pogledam usmjeren ka tebi.&#x000A;&#x000A;You can also see Prvi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-705"/>
+    </children>
+  </item>
+  <item nodeId="node-705">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Pustinja&#x000A;Sunce pi&#x010D;i, nema hlada, temperatura se&#x017E;e preko 40 stupnjeva. Oko tebe je sve pijesak, a jedino &#x0161;to ima&#x0161; je deva. Na jugu se nalazi portal za prelazak na tre&#x0107;i nivo.&#x000A;&#x000A;U&#x017E;areni pijesak lako propada pod nogama.&#x000A;&#x000A;You can also see Prvi portal and Drugi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-706"/>
+    </children>
+  </item>
+  <item nodeId="node-706">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-707"/>
+    </children>
+  </item>
+  <item nodeId="node-707">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-708"/>
+    </children>
+  </item>
+  <item nodeId="node-708">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening Drugi portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-709"/>
+    </children>
+  </item>
+  <item nodeId="node-709">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Kroz pra&#x0161;umu prolazi sna&#x017E;na rijeka. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;Crni plodovi, neobi&#x010D;nog izgleda i mirisa.&#x000A;&#x000A;Osjetiv&#x0161;i &#x010D;ovjekovu prisutnost &#x017E;ena ma&#x010D;ka je do&#x0161;la i cijelo vrijeme je njen pogledam usmjeren ka tebi.&#x000A;&#x000A;You can also see Prvi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-710"/>
+    </children>
+  </item>
+  <item nodeId="node-710">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Pustinja&#x000A;Sunce pi&#x010D;i, nema hlada, temperatura se&#x017E;e preko 40 stupnjeva. Oko tebe je sve pijesak, a jedino &#x0161;to ima&#x0161; je deva. Na jugu se nalazi portal za prelazak na tre&#x0107;i nivo.&#x000A;&#x000A;U&#x017E;areni pijesak lako propada pod nogama.&#x000A;&#x000A;You can also see Prvi portal and Drugi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-711"/>
+    </children>
+  </item>
+  <item nodeId="node-711">
+    <command xml:space="preserve">look deva</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-712">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-713"/>
+    </children>
+  </item>
+  <item nodeId="node-713">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-714"/>
+    </children>
+  </item>
+  <item nodeId="node-714">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1060">
+    <command xml:space="preserve">quit</command>
+    <result xml:space="preserve"></result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1120">
+    <command xml:space="preserve">insert voda into flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je napunjena vodom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1121"/>
+    </children>
+  </item>
+  <item nodeId="node-1121">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening Treci portal)&#x000A;Do&#x0161;ao si do kraja igrice! &#x010C;estitam!&#x000A;&#x000A;&#x000A;&#x000A;    *** The End ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+  </item>
+  <item nodeId="node-715">
+    <command xml:space="preserve">take a boCA</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-716"/>
+    </children>
+  </item>
+  <item nodeId="node-716">
+    <command xml:space="preserve">take boca</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-717"/>
+    </children>
+  </item>
+  <item nodeId="node-717">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-718"/>
+    </children>
+  </item>
+  <item nodeId="node-718">
+    <command xml:space="preserve">take boca</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-719"/>
+    </children>
+  </item>
+  <item nodeId="node-719">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">There's nothing suitable to drink here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-720">
+    <command xml:space="preserve">open torba </command>
+    <result xml:space="preserve">You open the torba, revealing a boca.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-721"/>
+    </children>
+  </item>
+  <item nodeId="node-721">
+    <command xml:space="preserve">drink boca </command>
+    <result xml:space="preserve">There's nothing suitable to drink here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-722">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode and a knjiga.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-723"/>
+      <child nodeId="node-726"/>
+      <child nodeId="node-734"/>
+    </children>
+  </item>
+  <item nodeId="node-723">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-724"/>
+    </children>
+  </item>
+  <item nodeId="node-724">
+    <command xml:space="preserve">drink torba</command>
+    <result xml:space="preserve">There's nothing suitable to drink here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-725"/>
+    </children>
+  </item>
+  <item nodeId="node-725">
+    <command xml:space="preserve">drink kfpekfe</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-726">
+    <command xml:space="preserve">look boca vode</command>
+    <result xml:space="preserve">Boca &#x010D;iste i pitke vode koja se mo&#x017E;e popiti.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-727"/>
+    </children>
+  </item>
+  <item nodeId="node-727">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila i odmah nestala iz mojih ruku. Bolje da &#x0161;to prije odem iz ove pra&#x0161;ume!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-728"/>
+    </children>
+  </item>
+  <item nodeId="node-728">
+    <command xml:space="preserve">drink torba</command>
+    <result xml:space="preserve">torba se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-729"/>
+    </children>
+  </item>
+  <item nodeId="node-729">
+    <command xml:space="preserve">close torba</command>
+    <result xml:space="preserve">You close the torba.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-730"/>
+    </children>
+  </item>
+  <item nodeId="node-730">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-731"/>
+    </children>
+  </item>
+  <item nodeId="node-731">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-732"/>
+    </children>
+  </item>
+  <item nodeId="node-732">
+    <command xml:space="preserve">look drvo </command>
+    <result xml:space="preserve">Veliko i rasko&#x0161;no drvo &#x010D;udnih plodova.&#x000A;&#x000A;On the veliko ljubicasto drvo is a crni plodovi.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-733"/>
+    </children>
+  </item>
+  <item nodeId="node-733">
+    <command xml:space="preserve">look plodovi</command>
+    <result xml:space="preserve">You see nothing special about the crni plodovi.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-734">
+    <command xml:space="preserve">throw knjiga into rijeka</command>
+    <result xml:space="preserve">Bacio si knjigu u rijeku, a u tom trenutku pokrenuo se ogroman val koji je bacio nazad knjigu do tebe. Ne&#x0161;to se promijenilo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-735"/>
+      <child nodeId="node-762"/>
+    </children>
+  </item>
+  <item nodeId="node-735">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;&#x000A;Napustena koliba&#x000A;Na&#x0161;ao si se u napu&#x0161;tenoj kolibi punoj pra&#x0161;ine s malo izvora svjetlosti. U kolibi se najvi&#x0161;e isti&#x010D;e klavir, veliki drveni stol i kau&#x010D;.&#x000A;&#x000A;You can see Prvi portal, Drugi portal, Drveni stol and Kauc (on which is Tabakera (closed)) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-736"/>
+      <child nodeId="node-742"/>
+      <child nodeId="node-756"/>
+    </children>
+  </item>
+  <item nodeId="node-736">
+    <command xml:space="preserve">look sjedalo </command>
+    <result xml:space="preserve">You see nothing special about Sjedalo.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-737"/>
+    </children>
+  </item>
+  <item nodeId="node-737">
+    <command xml:space="preserve">look sjedalo </command>
+    <result xml:space="preserve">You see nothing special about Sjedalo.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-738"/>
+    </children>
+  </item>
+  <item nodeId="node-738">
+    <command xml:space="preserve">take sjedalo </command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-739"/>
+    </children>
+  </item>
+  <item nodeId="node-739">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  Sjedalo&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-740"/>
+    </children>
+  </item>
+  <item nodeId="node-740">
+    <command xml:space="preserve">drop sjedao </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-741"/>
+    </children>
+  </item>
+  <item nodeId="node-741">
+    <command xml:space="preserve">drop sjedalo </command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-742">
+    <command xml:space="preserve">look under sjedalo </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-743"/>
+    </children>
+  </item>
+  <item nodeId="node-743">
+    <command xml:space="preserve">look sjedalo </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-744"/>
+    </children>
+  </item>
+  <item nodeId="node-744">
+    <command xml:space="preserve">look under sjedalo </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-745"/>
+    </children>
+  </item>
+  <item nodeId="node-745">
+    <command xml:space="preserve">open sjedalo </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-746"/>
+    </children>
+  </item>
+  <item nodeId="node-746">
+    <command xml:space="preserve">look vrecica</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-747"/>
+    </children>
+  </item>
+  <item nodeId="node-747">
+    <command xml:space="preserve">look deva</command>
+    <result xml:space="preserve">Pustinjska &#x017E;ivotinja koja na sebi nosi veliku torbu.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-748"/>
+    </children>
+  </item>
+  <item nodeId="node-748">
+    <command xml:space="preserve">look sjedalo </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-749"/>
+    </children>
+  </item>
+  <item nodeId="node-749">
+    <command xml:space="preserve">look under sjedalo</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-750"/>
+    </children>
+  </item>
+  <item nodeId="node-750">
+    <command xml:space="preserve">look under sjedalo </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-751"/>
+    </children>
+  </item>
+  <item nodeId="node-751">
+    <command xml:space="preserve">take pijesak </command>
+    <result xml:space="preserve">Pijesak je jako vru&#x0107; i dobit &#x0107;e&#x0161; opekotine!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-752"/>
+    </children>
+  </item>
+  <item nodeId="node-752">
+    <command xml:space="preserve">take pijesak </command>
+    <result xml:space="preserve">Pijesak je jako vru&#x0107; i dobit &#x0107;e&#x0161; opekotine!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-753"/>
+    </children>
+  </item>
+  <item nodeId="node-753">
+    <command xml:space="preserve">take pijesak</command>
+    <result xml:space="preserve">Pijesak je jako vru&#x0107; i dobit &#x0107;e&#x0161; opekotine!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-754"/>
+    </children>
+  </item>
+  <item nodeId="node-754">
+    <command xml:space="preserve">look pijesak </command>
+    <result xml:space="preserve">U&#x017E;areni pijesak lako propada pod nogama.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-755"/>
+    </children>
+  </item>
+  <item nodeId="node-755">
+    <command xml:space="preserve">look deva</command>
+    <result xml:space="preserve">Pustinjska &#x017E;ivotinja koja na sebi nosi veliku torbu.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+  </item>
+  <item nodeId="node-756">
+    <command xml:space="preserve">look kauc</command>
+    <result xml:space="preserve">Oronuli kau&#x010D; na kojem se nalazi tabakera.&#x000A;&#x000A;On Kauc is Tabakera (closed).&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-757"/>
+    </children>
+  </item>
+  <item nodeId="node-757">
+    <command xml:space="preserve">look at tabaker</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-758"/>
+    </children>
+  </item>
+  <item nodeId="node-758">
+    <command xml:space="preserve">look at tabakera</command>
+    <result xml:space="preserve">Tabakera je kutija za cigarete, mo&#x017E;e se otovriti.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-759"/>
+    </children>
+  </item>
+  <item nodeId="node-759">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-760"/>
+    </children>
+  </item>
+  <item nodeId="node-760">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-761"/>
+    </children>
+  </item>
+  <item nodeId="node-761">
+    <command xml:space="preserve">take kljuc</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-762">
+    <command xml:space="preserve">look at knjiga</command>
+    <result xml:space="preserve">Bravo! Portal se otvorio i mo&#x017E;e&#x0161; prije&#x0107;i dalje!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-763"/>
+    </children>
+  </item>
+  <item nodeId="node-763">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;&#x000A;Napustena koliba&#x000A;Na&#x0161;ao si se u napu&#x0161;tenoj kolibi punoj pra&#x0161;ine s malo izvora svjetlosti. U kolibi se najvi&#x0161;e isti&#x010D;e klavir, veliki drveni stol i kau&#x010D;.&#x000A;&#x000A;You can see Prvi portal, Drugi portal, Drveni stol and Kauc (on which is Tabakera (closed)) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-764"/>
+    </children>
+  </item>
+  <item nodeId="node-764">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-765"/>
+    </children>
+  </item>
+  <item nodeId="node-765">
+    <command xml:space="preserve">inventora</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-766"/>
+    </children>
+  </item>
+  <item nodeId="node-766">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-767"/>
+    </children>
+  </item>
+  <item nodeId="node-767">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">You open Tabakera, revealing a kljuc.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-768">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-769"/>
+    </children>
+  </item>
+  <item nodeId="node-769">
+    <command xml:space="preserve">drinking boca</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-770"/>
+    </children>
+  </item>
+  <item nodeId="node-770">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-771">
+    <command xml:space="preserve">open torba&#x0111;</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-772"/>
+    </children>
+  </item>
+  <item nodeId="node-772">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-773"/>
+    </children>
+  </item>
+  <item nodeId="node-773">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ugh. You're probably going to regret that in about an hour.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-774"/>
+    </children>
+  </item>
+  <item nodeId="node-774">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ugh. You're probably going to regret that in about an hour.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-775">
+    <command xml:space="preserve">drink torba</command>
+    <result xml:space="preserve">torba se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-776"/>
+      <child nodeId="node-779"/>
+      <child nodeId="node-799"/>
+      <child nodeId="node-803"/>
+      <child nodeId="node-806"/>
+      <child nodeId="node-810"/>
+    </children>
+  </item>
+  <item nodeId="node-776">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-777"/>
+    </children>
+  </item>
+  <item nodeId="node-777">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-778"/>
+    </children>
+  </item>
+  <item nodeId="node-778">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-779">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-780"/>
+      <child nodeId="node-787"/>
+      <child nodeId="node-789"/>
+      <child nodeId="node-792"/>
+    </children>
+  </item>
+  <item nodeId="node-780">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-781"/>
+      <child nodeId="node-782"/>
+      <child nodeId="node-785"/>
+    </children>
+  </item>
+  <item nodeId="node-781">
+    <command xml:space="preserve">drink torba</command>
+    <result xml:space="preserve">Ne pom&#x017E;e&#x0161; to popiti.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-782">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-783"/>
+    </children>
+  </item>
+  <item nodeId="node-783">
+    <command xml:space="preserve">drink torba</command>
+    <result xml:space="preserve">torba se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-784"/>
+    </children>
+  </item>
+  <item nodeId="node-784">
+    <command xml:space="preserve">drink torba</command>
+    <result xml:space="preserve">torba se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-785">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-786"/>
+    </children>
+  </item>
+  <item nodeId="node-786">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-787">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">boca vode se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-788"/>
+    </children>
+  </item>
+  <item nodeId="node-788">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">boca vode se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-789">
+    <command xml:space="preserve">drink boc vode</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-790"/>
+    </children>
+  </item>
+  <item nodeId="node-790">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">boca vode se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-791"/>
+    </children>
+  </item>
+  <item nodeId="node-791">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-792">
+    <command xml:space="preserve">take boca vode</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-793"/>
+    </children>
+  </item>
+  <item nodeId="node-793">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a boca vode&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-794"/>
+    </children>
+  </item>
+  <item nodeId="node-794">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila i odmah nestala iz mojih ruku. Bolje da &#x0161;to prije odem iz ove pra&#x0161;ume!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-795"/>
+    </children>
+  </item>
+  <item nodeId="node-795">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-796"/>
+    </children>
+  </item>
+  <item nodeId="node-796">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">That's already open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-797"/>
+    </children>
+  </item>
+  <item nodeId="node-797">
+    <command xml:space="preserve">close torba</command>
+    <result xml:space="preserve">You close the torba.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-798"/>
+    </children>
+  </item>
+  <item nodeId="node-798">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-799">
+    <command xml:space="preserve">drink torba</command>
+    <result xml:space="preserve">torba se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-800"/>
+    </children>
+  </item>
+  <item nodeId="node-800">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-801"/>
+    </children>
+  </item>
+  <item nodeId="node-801">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-802"/>
+    </children>
+  </item>
+  <item nodeId="node-802">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-803">
+    <command xml:space="preserve">look at torba</command>
+    <result xml:space="preserve">Zlatne je boje i mo&#x017E;e&#x0161; je otvoriti!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-804"/>
+    </children>
+  </item>
+  <item nodeId="node-804">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-805"/>
+    </children>
+  </item>
+  <item nodeId="node-805">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">boca vode se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-806">
+    <command xml:space="preserve">open troba</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-807"/>
+    </children>
+  </item>
+  <item nodeId="node-807">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-808"/>
+    </children>
+  </item>
+  <item nodeId="node-808">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;That isn't available.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-809"/>
+    </children>
+  </item>
+  <item nodeId="node-809">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-810">
+    <command xml:space="preserve">drink fdfd</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-811"/>
+    </children>
+  </item>
+  <item nodeId="node-811">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-812"/>
+    </children>
+  </item>
+  <item nodeId="node-812">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-813"/>
+    </children>
+  </item>
+  <item nodeId="node-813">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-814"/>
+    </children>
+  </item>
+  <item nodeId="node-814">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-815">
+    <command xml:space="preserve">drink troba</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-816"/>
+    </children>
+  </item>
+  <item nodeId="node-816">
+    <command xml:space="preserve">drink torba</command>
+    <result xml:space="preserve">torba se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-817"/>
+      <child nodeId="node-822"/>
+    </children>
+  </item>
+  <item nodeId="node-817">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-818"/>
+      <child nodeId="node-819"/>
+    </children>
+  </item>
+  <item nodeId="node-818">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">boca vode se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-819">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-820"/>
+    </children>
+  </item>
+  <item nodeId="node-820">
+    <command xml:space="preserve">drink voda</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-821"/>
+    </children>
+  </item>
+  <item nodeId="node-821">
+    <command xml:space="preserve">drink boca</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-822">
+    <command xml:space="preserve">open boca</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-823"/>
+    </children>
+  </item>
+  <item nodeId="node-823">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-824"/>
+    </children>
+  </item>
+  <item nodeId="node-824">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">boca vode se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-825">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-826">
+    <command xml:space="preserve">take plodovi</command>
+    <result xml:space="preserve">Oprez plodovi nisu jestivi jer su otrovni i ne mo&#x017E;e&#x0161; ih ponijeti!!!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-827"/>
+    </children>
+  </item>
+  <item nodeId="node-827">
+    <command xml:space="preserve">eat plodovi</command>
+    <result xml:space="preserve">crni plodovi se ne jede!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-828"/>
+    </children>
+  </item>
+  <item nodeId="node-828">
+    <command xml:space="preserve">eat torba</command>
+    <result xml:space="preserve">torba se ne jede!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-829"/>
+    </children>
+  </item>
+  <item nodeId="node-829">
+    <command xml:space="preserve">eat boca</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-830"/>
+    </children>
+  </item>
+  <item nodeId="node-830">
+    <command xml:space="preserve">inventory </command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a crni plodovi&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-831"/>
+    </children>
+  </item>
+  <item nodeId="node-831">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-832"/>
+    </children>
+  </item>
+  <item nodeId="node-832">
+    <command xml:space="preserve">take boca vode</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-833"/>
+    </children>
+  </item>
+  <item nodeId="node-833">
+    <command xml:space="preserve">inventora</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-834"/>
+    </children>
+  </item>
+  <item nodeId="node-834">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a boca vode&#x000A;  a crni plodovi&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-835">
+    <command xml:space="preserve">look at plodovi</command>
+    <result xml:space="preserve">You see nothing special about the crni plodovi.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-836"/>
+    </children>
+  </item>
+  <item nodeId="node-836">
+    <command xml:space="preserve">look plodovi</command>
+    <result xml:space="preserve">You see nothing special about the crni plodovi.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-837"/>
+    </children>
+  </item>
+  <item nodeId="node-837">
+    <command xml:space="preserve">look orba</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-838"/>
+    </children>
+  </item>
+  <item nodeId="node-838">
+    <command xml:space="preserve">look at torba</command>
+    <result xml:space="preserve">Zlatne je boje i mo&#x017E;e&#x0161; je otvoriti!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-839"/>
+    </children>
+  </item>
+  <item nodeId="node-839">
+    <command xml:space="preserve">eat plodovi</command>
+    <result xml:space="preserve">crni plodovi se ne jede!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-840"/>
+    </children>
+  </item>
+  <item nodeId="node-840">
+    <command xml:space="preserve">take plodovi</command>
+    <result xml:space="preserve">Oprez plodovi nisu jestivi jer su otrovni!!!&#x000A;&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-841">
+    <command xml:space="preserve">eat torba</command>
+    <result xml:space="preserve">torba se ne jede!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-842"/>
+    </children>
+  </item>
+  <item nodeId="node-842">
+    <command xml:space="preserve">eat plodovi</command>
+    <result xml:space="preserve">crni plodovi se ne jede!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-843"/>
+    </children>
+  </item>
+  <item nodeId="node-843">
+    <command xml:space="preserve">take plodovi</command>
+    <result xml:space="preserve">Oprez plodovi nisu jestivi jer su otrovni!!!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-844"/>
+    </children>
+  </item>
+  <item nodeId="node-844">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-845">
+    <command xml:space="preserve">take crni plodovi</command>
+    <result xml:space="preserve">Oprez plodovi nisu jestivi jer su otrovni i ne mo&#x017E;e&#x0161; ih ponijeti!!!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-846"/>
+    </children>
+  </item>
+  <item nodeId="node-846">
+    <command xml:space="preserve">eat crni polodovi</command>
+    <result xml:space="preserve">I only understood you as far as wanting to eat the crni plodovi.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-847"/>
+    </children>
+  </item>
+  <item nodeId="node-847">
+    <command xml:space="preserve">eat crni plodovi</command>
+    <result xml:space="preserve">crni plodovi se ne jede!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-848">
+    <command xml:space="preserve">look zena macka</command>
+    <result xml:space="preserve">&#x017D;ena duge sme&#x0111;e kose obu&#x010D;ena u crno usko odjelo. Svojim prodornim, zelenim o&#x010D;ima mo&#x017E;e svakoga o&#x010D;arati tako da budi na oprezu!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-849"/>
+    </children>
+  </item>
+  <item nodeId="node-849">
+    <command xml:space="preserve">look at stablo </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-850"/>
+    </children>
+  </item>
+  <item nodeId="node-850">
+    <command xml:space="preserve">look at drvo </command>
+    <result xml:space="preserve">Veliko i rasko&#x0161;no drvo &#x010D;udnih plodova.&#x000A;&#x000A;On the veliko ljubicasto drvo is a crni plodovi.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-851"/>
+    </children>
+  </item>
+  <item nodeId="node-851">
+    <command xml:space="preserve">look at torba</command>
+    <result xml:space="preserve">Zlatne je boje i mo&#x017E;e&#x0161; je otvoriti!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-852"/>
+    </children>
+  </item>
+  <item nodeId="node-852">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-853"/>
+    </children>
+  </item>
+  <item nodeId="node-853">
+    <command xml:space="preserve">take boca vode</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-854"/>
+    </children>
+  </item>
+  <item nodeId="node-854">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila i odmah nestala iz mojih ruku. Bolje da &#x0161;to prije odem iz ove pra&#x0161;ume!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-855"/>
+    </children>
+  </item>
+  <item nodeId="node-855">
+    <command xml:space="preserve">loook boca vode</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-856">
+    <command xml:space="preserve">look torba</command>
+    <result xml:space="preserve">Zlatne je boje i mo&#x017E;e&#x0161; je otvoriti!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-857"/>
+    </children>
+  </item>
+  <item nodeId="node-857">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode and a knjiga.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-858"/>
+      <child nodeId="node-860"/>
+    </children>
+  </item>
+  <item nodeId="node-858">
+    <command xml:space="preserve">look njiga</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-859"/>
+    </children>
+  </item>
+  <item nodeId="node-859">
+    <command xml:space="preserve">look knjiga</command>
+    <result xml:space="preserve">Knjiga nepoznatog autora sa sumnjivim sadr&#x017E;ajem!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-860">
+    <command xml:space="preserve">throw knjiga into rijeka</command>
+    <result xml:space="preserve">Bacio si knjigu u rijeku, a u tom trenutku pokrenuo se ogroman val koji je bacio nazad knjigu do tebe. Ne&#x0161;to se promijenilo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-861"/>
+    </children>
+  </item>
+  <item nodeId="node-861">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;&#x000A;Pustinja&#x000A;Sunce pi&#x010D;i, nema hlada, temperatura se&#x017E;e preko 40 stupnjeva. Oko tebe je sve pijesak, a jedino &#x0161;to ima&#x0161; je deva. Na jugu se nalazi portal za prelazak na tre&#x0107;i nivo.&#x000A;&#x000A;U&#x017E;areni pijesak lako propada pod nogama.&#x000A;&#x000A;Sjedalo je svijetle boje napravljeno od &#x010D;vrste tkanine.&#x000A;&#x000A;Deva ima dvije grbe te je navikla na vru&#x0107;ine. Na sebi ima sjedalo za lak&#x0161;e jahanje.&#x000A;&#x000A;You can also see Prvi portal and Drugi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-862"/>
+    </children>
+  </item>
+  <item nodeId="node-862">
+    <command xml:space="preserve">look sjedalo </command>
+    <result xml:space="preserve">You see nothing special about Sjedalo.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-863"/>
+    </children>
+  </item>
+  <item nodeId="node-863">
+    <command xml:space="preserve">take sjedalo </command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-864"/>
+    </children>
+  </item>
+  <item nodeId="node-864">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  Sjedalo&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-865"/>
+    </children>
+  </item>
+  <item nodeId="node-865">
+    <command xml:space="preserve">drop sjedalo </command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-866"/>
+    </children>
+  </item>
+  <item nodeId="node-866">
+    <command xml:space="preserve">look under sjedalo </command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-867">
+    <command xml:space="preserve">go portal</command>
+    <result xml:space="preserve">(first opening Portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-868"/>
+      <child nodeId="node-885"/>
+    </children>
+  </item>
+  <item nodeId="node-868">
+    <command xml:space="preserve">look torba</command>
+    <result xml:space="preserve">Zlatne je boje i mo&#x017E;e&#x0161; je otvoriti!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-869"/>
+    </children>
+  </item>
+  <item nodeId="node-869">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode and a knjiga.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-870"/>
+    </children>
+  </item>
+  <item nodeId="node-870">
+    <command xml:space="preserve">drink torba</command>
+    <result xml:space="preserve">torba se ne pije!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-871"/>
+    </children>
+  </item>
+  <item nodeId="node-871">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">Ova boca vode me je osvje&#x017E;ila i odmah nestala iz mojih ruku. Bolje da &#x0161;to prije odem iz ove pra&#x0161;ume!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-872"/>
+    </children>
+  </item>
+  <item nodeId="node-872">
+    <command xml:space="preserve">take knjiga</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-873"/>
+    </children>
+  </item>
+  <item nodeId="node-873">
+    <command xml:space="preserve">look knjiga</command>
+    <result xml:space="preserve">Knjiga nepoznatog autora sa sumnjivim sadr&#x017E;ajem!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-874"/>
+    </children>
+  </item>
+  <item nodeId="node-874">
+    <command xml:space="preserve">look drvo </command>
+    <result xml:space="preserve">Veliko i rasko&#x0161;no drvo &#x010D;udnih plodova.&#x000A;&#x000A;On the veliko ljubicasto drvo is a crni plodovi.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-875"/>
+    </children>
+  </item>
+  <item nodeId="node-875">
+    <command xml:space="preserve">take plodovi</command>
+    <result xml:space="preserve">Oprez plodovi nisu jestivi jer su otrovni i ne mo&#x017E;e&#x0161; ih ponijeti!!!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-876"/>
+    </children>
+  </item>
+  <item nodeId="node-876">
+    <command xml:space="preserve">look plodovi</command>
+    <result xml:space="preserve">You see nothing special about the crni plodovi.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-877"/>
+    </children>
+  </item>
+  <item nodeId="node-877">
+    <command xml:space="preserve">eat plodovi</command>
+    <result xml:space="preserve">crni plodovi se ne jede!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-878"/>
+    </children>
+  </item>
+  <item nodeId="node-878">
+    <command xml:space="preserve">drink boca vode</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-879"/>
+    </children>
+  </item>
+  <item nodeId="node-879">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a knjiga&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-880"/>
+    </children>
+  </item>
+  <item nodeId="node-880">
+    <command xml:space="preserve">ask zena macka about knjiga</command>
+    <result xml:space="preserve">Mora&#x0161; &#x0161;to prije uni&#x0161;titi knjigu za vlastito dobro!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-881"/>
+    </children>
+  </item>
+  <item nodeId="node-881">
+    <command xml:space="preserve">throw knjiga in rijeka</command>
+    <result xml:space="preserve">Bacio si knjigu u rijeku, a u tom trenutku pokrenuo se ogroman vir koji je bacio nazad knjigu do tebe. Ne&#x0161;to se promijenilo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-882"/>
+    </children>
+  </item>
+  <item nodeId="node-882">
+    <command xml:space="preserve">look knjiga</command>
+    <result xml:space="preserve">Bravo! Portal se otvorio i mo&#x017E;e&#x0161; prije&#x0107;i dalje!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-883"/>
+    </children>
+  </item>
+  <item nodeId="node-883">
+    <command xml:space="preserve">go portal</command>
+    <result xml:space="preserve">(first opening Portal)&#x000A;&#x000A;Pustinja&#x000A;You can see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-884"/>
+    </children>
+  </item>
+  <item nodeId="node-884">
+    <command xml:space="preserve">go north</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-885">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-886"/>
+    </children>
+  </item>
+  <item nodeId="node-886">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-887"/>
+    </children>
+  </item>
+  <item nodeId="node-887">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Pustinja&#x000A;You can see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-888"/>
+    </children>
+  </item>
+  <item nodeId="node-888">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Kroz pra&#x0161;umu prolazi sna&#x017E;na rijeka. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;Crni plodovi, neobi&#x010D;nog izgleda i mirisa.&#x000A;&#x000A;Osjetiv&#x0161;i &#x010D;ovjekovu prisutnost &#x017E;ena ma&#x010D;ka je do&#x0161;la i cijelo vrijeme je njen pogledam usmjeren ka tebi.&#x000A;&#x000A;You can also see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-889">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-890"/>
+      <child nodeId="node-1054"/>
+    </children>
+  </item>
+  <item nodeId="node-890">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Pustinja&#x000A;Sunce pi&#x010D;i, nema hlada, temperatura se&#x017E;e preko 40 stupnjeva. Oko tebe je sve pijesak, a jedino &#x0161;to ima&#x0161; je deva.&#x000A;&#x000A;You can see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-891"/>
+    </children>
+  </item>
+  <item nodeId="node-891">
+    <command xml:space="preserve">look portal</command>
+    <result xml:space="preserve">Portal slu&#x017E;i prelasku iz jednog u drugi level!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1054">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1055"/>
+    </children>
+  </item>
+  <item nodeId="node-1055">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1056"/>
+    </children>
+  </item>
+  <item nodeId="node-1056">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-1135"/>
+    </children>
+  </item>
+  <item nodeId="node-1135">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode and a knjiga.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1136"/>
+    </children>
+  </item>
+  <item nodeId="node-1136">
+    <command xml:space="preserve">throw knjiga into rijeka</command>
+    <result xml:space="preserve">Bacio si knjigu u rijeku, a u tom trenutku pokrenuo se ogroman val koji je bacio nazad knjigu do tebe. Ne&#x0161;to se promijenilo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1137"/>
+    </children>
+  </item>
+  <item nodeId="node-1137">
+    <command xml:space="preserve">look knjiga</command>
+    <result xml:space="preserve">Bravo! Portal se otvorio i mo&#x017E;e&#x0161; prije&#x0107;i dalje!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1138"/>
+    </children>
+  </item>
+  <item nodeId="node-1138">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;&#x000A;] Napustena koliba&#x000A;Na&#x0161;ao si se u napu&#x0161;tenoj kolibi punoj pra&#x0161;ine s malo izvora svjetlosti. U kolibi se najvi&#x0161;e isti&#x010D;e klavir, veliki drveni stol i kau&#x010D;.&#x000A;&#x000A;Jabuka koja je posme&#x0111;ila.&#x000A;&#x000A;Stari klavir koji se i dalje mo&#x017E;e svirati.&#x000A;&#x000A;You can also see Prvi portal, Drugi portal, Kauc (on which is Tabakera (closed)) and skrinja (closed) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1139"/>
+    </children>
+  </item>
+  <item nodeId="node-1139">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">Nemam kljuc za otvoriti &#x0161;krinju&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1140"/>
+    </children>
+  </item>
+  <item nodeId="node-1140">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">U tabakeri se nalazi klju&#x010D;. &#x000A;Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1141"/>
+    </children>
+  </item>
+  <item nodeId="node-1141">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">&#x0160;krinju sam otvorio klju&#x010D;em.&#x000A;U &#x0161;krinji se nalazi papir sa zanimljivom porukom! Bolje pogledaj u papir.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1142"/>
+    </children>
+  </item>
+  <item nodeId="node-1142">
+    <command xml:space="preserve">look papir</command>
+    <result xml:space="preserve">Za prelazak u tre&#x0107;u razinu potrebno je zaplesati! Znam da zna&#x0161; i zato kreni!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1143"/>
+    </children>
+  </item>
+  <item nodeId="node-1143">
+    <command xml:space="preserve">dance</command>
+    <result xml:space="preserve">Odli&#x010D;no ti ide. Otklju&#x010D;ao si prolaz u tre&#x0107;i nivo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1144"/>
+    </children>
+  </item>
+  <item nodeId="node-1144">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening Drugi portal)&#x000A;&#x000A;Pustinjska oaza&#x000A;Sunce pi&#x010D;i, vru&#x0107;e je, ali oko tebe su drve&#x0107;a koja &#x010D;ine hlad, izvor vode i le&#x017E;aljka. Stigao je beduin!&#x000A;&#x000A;Beduin je stariji &#x010D;ovjek pun mudrosti.&#x000A;&#x000A;You can also see Drugi portal, Treci portal, Bijela kapa, Izvor vode (in which is Voda) and Staklena flasa here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1145"/>
+    </children>
+  </item>
+  <item nodeId="node-1145">
+    <command xml:space="preserve">look bijela kapa</command>
+    <result xml:space="preserve">Lagana bijela kapa koja te za&#x0161;ti&#x010D;uje od sunca. Slobodno je probaj!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1146"/>
+    </children>
+  </item>
+  <item nodeId="node-1146">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">] Napustena koliba&#x000A;Na&#x0161;ao si se u napu&#x0161;tenoj kolibi punoj pra&#x0161;ine s malo izvora svjetlosti. U kolibi se najvi&#x0161;e isti&#x010D;e klavir, veliki drveni stol i kau&#x010D;.&#x000A;&#x000A;Jabuka koja je posme&#x0111;ila.&#x000A;&#x000A;Stari klavir koji se i dalje mo&#x017E;e svirati.&#x000A;&#x000A;You can also see Drugi portal, Prvi portal, Kauc (on which is Tabakera (closed)) and skrinja (in which is papir) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1147"/>
+    </children>
+  </item>
+  <item nodeId="node-1147">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Pustinjska oaza&#x000A;Sunce pi&#x010D;i, vru&#x0107;e je, ali oko tebe su drve&#x0107;a koja &#x010D;ine hlad, izvor vode i le&#x017E;aljka. Stigao je beduin!&#x000A;&#x000A;Beduin je stariji &#x010D;ovjek pun mudrosti.&#x000A;&#x000A;You can also see Drugi portal, Treci portal, Bijela kapa, Izvor vode (in which is Voda) and Staklena flasa here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1148"/>
+    </children>
+  </item>
+  <item nodeId="node-1148">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1149"/>
+    </children>
+  </item>
+  <item nodeId="node-1149">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening Treci portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1150"/>
+    </children>
+  </item>
+  <item nodeId="node-1150">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1151"/>
+    </children>
+  </item>
+  <item nodeId="node-1151">
+    <command xml:space="preserve">look izvor vode</command>
+    <result xml:space="preserve">Svje&#x017E;a, hladna i pitka voda!&#x000A;&#x000A;In Izvor vode is Voda.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1152"/>
+    </children>
+  </item>
+  <item nodeId="node-1152">
+    <command xml:space="preserve">look staklena flasa</command>
+    <result xml:space="preserve">Ostavljena, prazna staklena fla&#x0161;a.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1153"/>
+    </children>
+  </item>
+  <item nodeId="node-1153">
+    <command xml:space="preserve">look beduin</command>
+    <result xml:space="preserve">Pustinjski nomad. Mo&#x017E;e&#x0161; ga pitati o staklenoj boci.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1154"/>
+    </children>
+  </item>
+  <item nodeId="node-1154">
+    <command xml:space="preserve">ask beduin about flasa</command>
+    <result xml:space="preserve">Ukoliko napuni&#x0161; staklenu fla&#x0161;u vodom tada prelazi&#x0161; level!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1155"/>
+    </children>
+  </item>
+  <item nodeId="node-1155">
+    <command xml:space="preserve">insert voda into flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je napunjena vodom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1156"/>
+    </children>
+  </item>
+  <item nodeId="node-1156">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening Treci portal)&#x000A;Do&#x0161;ao si do kraja igrice! &#x010C;estitam!&#x000A;&#x000A;&#x000A;&#x000A;    *** The End ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-892">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-893"/>
+    </children>
+  </item>
+  <item nodeId="node-893">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-894"/>
+    </children>
+  </item>
+  <item nodeId="node-894">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-895"/>
+    </children>
+  </item>
+  <item nodeId="node-895">
+    <command xml:space="preserve">go portal</command>
+    <result xml:space="preserve">(first opening Portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-896"/>
+    </children>
+  </item>
+  <item nodeId="node-896">
+    <command xml:space="preserve">throw knjiga into rijeka</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-897"/>
+    </children>
+  </item>
+  <item nodeId="node-897">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-898"/>
+    </children>
+  </item>
+  <item nodeId="node-898">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode and a knjiga.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-899"/>
+    </children>
+  </item>
+  <item nodeId="node-899">
+    <command xml:space="preserve">look knjiga</command>
+    <result xml:space="preserve">Knjiga nepoznatog autora sa sumnjivim sadr&#x017E;ajem!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-900"/>
+    </children>
+  </item>
+  <item nodeId="node-900">
+    <command xml:space="preserve">throw knjiga into rijeka</command>
+    <result xml:space="preserve">Bacio si knjigu u rijeku, a u tom trenutku pokrenuo se ogroman vir koji je bacio nazad knjigu do tebe. Ne&#x0161;to se promijenilo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-901"/>
+    </children>
+  </item>
+  <item nodeId="node-901">
+    <command xml:space="preserve">look knjiga</command>
+    <result xml:space="preserve">Bravo! Portal se otvorio i mo&#x017E;e&#x0161; prije&#x0107;i dalje!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-902"/>
+    </children>
+  </item>
+  <item nodeId="node-902">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Portal)&#x000A;&#x000A;Pustinja&#x000A;You can see Portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-903">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-904"/>
+      <child nodeId="node-1057"/>
+    </children>
+  </item>
+  <item nodeId="node-904">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-905"/>
+    </children>
+  </item>
+  <item nodeId="node-905">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-906"/>
+    </children>
+  </item>
+  <item nodeId="node-906">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-907"/>
+    </children>
+  </item>
+  <item nodeId="node-907">
+    <command xml:space="preserve">open torba</command>
+    <result xml:space="preserve">You open the torba, revealing a boca vode and a knjiga.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-908"/>
+    </children>
+  </item>
+  <item nodeId="node-908">
+    <command xml:space="preserve">throw knjiga into rijeka</command>
+    <result xml:space="preserve">Bacio si knjigu u rijeku, a u tom trenutku pokrenuo se ogroman val koji je bacio nazad knjigu do tebe. Ne&#x0161;to se promijenilo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-909"/>
+    </children>
+  </item>
+  <item nodeId="node-909">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Prvi portal)&#x000A;&#x000A;Napustena koliba&#x000A;Na&#x0161;ao si se u napu&#x0161;tenoj kolibi punoj pra&#x0161;ine s malo izvora svjetlosti. U kolibi se najvi&#x0161;e isti&#x010D;e klavir, veliki drveni stol i kau&#x010D;.&#x000A;&#x000A;You can see Prvi portal, Drugi portal, Drveni stol and Kauc (on which is Tabakera (closed)) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-910"/>
+    </children>
+  </item>
+  <item nodeId="node-910">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-911"/>
+    </children>
+  </item>
+  <item nodeId="node-911">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-912"/>
+    </children>
+  </item>
+  <item nodeId="node-912">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Prasuma&#x000A;Pra&#x0161;uma je ki&#x0161;na &#x0161;uma puna &#x010D;udnovatih zvijeri koje mogu zbuniti posjetitelje. Po&#x010D;ela je lagano padati ki&#x0161;a, a u pozadini se &#x010D;uju razni &#x010D;udni zvukovi. U cijeloj pra&#x0161;umi posebno se isti&#x010D;e veliko, ljubi&#x010D;asto drvo koje ima crne plodove. Kroz pra&#x0161;umu prolazi sna&#x017E;na rijeka. Na istoku se nalazi portal koji vodi u drugu razinu.&#x000A;&#x000A;Vidi&#x0161; torbu pokraj ljubi&#x010D;astog drveta.&#x000A;&#x000A;Crni plodovi, neobi&#x010D;nog izgleda i mirisa.&#x000A;&#x000A;Osjetiv&#x0161;i &#x010D;ovjekovu prisutnost &#x017E;ena ma&#x010D;ka je do&#x0161;la i cijelo vrijeme je njen pogledam usmjeren ka tebi.&#x000A;&#x000A;You can also see Prvi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-913"/>
+    </children>
+  </item>
+  <item nodeId="node-913">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Napustena koliba&#x000A;Na&#x0161;ao si se u napu&#x0161;tenoj kolibi punoj pra&#x0161;ine s malo izvora svjetlosti. U kolibi se najvi&#x0161;e isti&#x010D;e klavir, veliki drveni stol i kau&#x010D;.&#x000A;&#x000A;You can see Prvi portal, Drugi portal, Drveni stol and Kauc (on which is Tabakera (closed)) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-914"/>
+    </children>
+  </item>
+  <item nodeId="node-914">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening Drugi portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-915"/>
+    </children>
+  </item>
+  <item nodeId="node-915">
+    <command xml:space="preserve">look at drveni stol </command>
+    <result xml:space="preserve">Stari drveni stol sme&#x0111;e boje kojeg je prekrila pra&#x0161;ina. Ispod njega nalazi se mala i neobi&#x010D;na &#x0161;krinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-916"/>
+    </children>
+  </item>
+  <item nodeId="node-916">
+    <command xml:space="preserve">look under the table</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-917"/>
+    </children>
+  </item>
+  <item nodeId="node-917">
+    <command xml:space="preserve">look drveni stol </command>
+    <result xml:space="preserve">Stari drveni stol sme&#x0111;e boje kojeg je prekrila pra&#x0161;ina. Ispod njega nalazi se mala i neobi&#x010D;na &#x0161;krinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-918"/>
+    </children>
+  </item>
+  <item nodeId="node-918">
+    <command xml:space="preserve">look under the stol </command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-919"/>
+    </children>
+  </item>
+  <item nodeId="node-919">
+    <command xml:space="preserve">look under stol </command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-920"/>
+    </children>
+  </item>
+  <item nodeId="node-920">
+    <command xml:space="preserve">look kauc</command>
+    <result xml:space="preserve">Oronuli kau&#x010D; na kojem se nalazi tabakera.&#x000A;&#x000A;On Kauc is Tabakera (closed).&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-921"/>
+    </children>
+  </item>
+  <item nodeId="node-921">
+    <command xml:space="preserve">look tabakera</command>
+    <result xml:space="preserve">Tabakera je kutija za cigarete, mo&#x017E;e se otovriti.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-922"/>
+    </children>
+  </item>
+  <item nodeId="node-922">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-923"/>
+    </children>
+  </item>
+  <item nodeId="node-923">
+    <command xml:space="preserve">look kljuc</command>
+    <result xml:space="preserve">Klju&#x010D; za otvoriti &#x0161;krinju.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-924"/>
+    </children>
+  </item>
+  <item nodeId="node-924">
+    <command xml:space="preserve">look kauc</command>
+    <result xml:space="preserve">Oronuli kau&#x010D; na kojem se nalazi tabakera.&#x000A;&#x000A;On Kauc is Tabakera (closed).&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-925"/>
+    </children>
+  </item>
+  <item nodeId="node-925">
+    <command xml:space="preserve">look tabakera</command>
+    <result xml:space="preserve">Tabakera je kutija za cigarete, mo&#x017E;e se otovriti.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-926"/>
+    </children>
+  </item>
+  <item nodeId="node-926">
+    <command xml:space="preserve">take tabakera</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-927"/>
+    </children>
+  </item>
+  <item nodeId="node-927">
+    <command xml:space="preserve">drop tabakera</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-928"/>
+    </children>
+  </item>
+  <item nodeId="node-928">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">You open Tabakera.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-929"/>
+    </children>
+  </item>
+  <item nodeId="node-929">
+    <command xml:space="preserve">close tabakera</command>
+    <result xml:space="preserve">You close Tabakera.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-930"/>
+    </children>
+  </item>
+  <item nodeId="node-930">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">You open Tabakera.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-931"/>
+    </children>
+  </item>
+  <item nodeId="node-931">
+    <command xml:space="preserve">look kljuc</command>
+    <result xml:space="preserve">Klju&#x010D; za otvoriti &#x0161;krinju.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-932"/>
+    </children>
+  </item>
+  <item nodeId="node-932">
+    <command xml:space="preserve">take kljuc</command>
+    <result xml:space="preserve">You already have that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-933"/>
+    </children>
+  </item>
+  <item nodeId="node-933">
+    <command xml:space="preserve">inventora</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-934"/>
+    </children>
+  </item>
+  <item nodeId="node-934">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a kljuc&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1057">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1058"/>
+    </children>
+  </item>
+  <item nodeId="node-1058">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1059"/>
+    </children>
+  </item>
+  <item nodeId="node-1059">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening Treci portal)&#x000A;Do&#x0161;ao si do kraja igrice! &#x010C;estitam!&#x000A;&#x000A;&#x000A;&#x000A;    *** The End ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-935">
+    <command xml:space="preserve">look table</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-936"/>
+    </children>
+  </item>
+  <item nodeId="node-936">
+    <command xml:space="preserve">look stol</command>
+    <result xml:space="preserve">Stari drveni stol sme&#x0111;e boje kojeg je prekrila pra&#x0161;ina. Ispod njega nalazi se mala i neobi&#x010D;na &#x0161;krinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-937"/>
+    </children>
+  </item>
+  <item nodeId="node-937">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-938">
+    <command xml:space="preserve">look kauc</command>
+    <result xml:space="preserve">Oronuli kau&#x010D; na kojem se nalazi tabakera.&#x000A;&#x000A;On Kauc is Tabakera (closed).&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-939"/>
+      <child nodeId="node-962"/>
+    </children>
+  </item>
+  <item nodeId="node-939">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">*** Run-time problem P10: Since the skrinja under the table is not allowed the property "locked", it is against the rules to try to use it.&#x000A;&#x000A;Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-962">
+    <command xml:space="preserve">look tabakera</command>
+    <result xml:space="preserve">Tabakera je kutija za cigarete te se mo&#x017E;e otvoriti.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-963"/>
+    </children>
+  </item>
+  <item nodeId="node-963">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">*** Run-time problem P10: Since the skrinja under the table is not allowed the property "locked", it is against the rules to try to use it.&#x000A;&#x000A;Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-940">
+    <command xml:space="preserve">look tabakera</command>
+    <result xml:space="preserve">Tabakera je kutija za cigarete te se mo&#x017E;e otvoriti.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-941"/>
+      <child nodeId="node-966"/>
+    </children>
+  </item>
+  <item nodeId="node-941">
+    <command xml:space="preserve">look drveni stol</command>
+    <result xml:space="preserve">Stari drveni stol sme&#x0111;e boje kojeg je prekrila pra&#x0161;ina. Ispod njega nalazi se mala i neobi&#x010D;na &#x0161;krinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-942"/>
+    </children>
+  </item>
+  <item nodeId="node-942">
+    <command xml:space="preserve">look skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-943"/>
+    </children>
+  </item>
+  <item nodeId="node-943">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-966">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">U tabakeri se nalazi klju&#x010D; &#x000A; Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-967"/>
+    </children>
+  </item>
+  <item nodeId="node-967">
+    <command xml:space="preserve">look drveni stol </command>
+    <result xml:space="preserve">Stari drveni stol sme&#x0111;e boje kojeg je prekrila pra&#x0161;ina. Ispod njega nalazi se mala i neobi&#x010D;na &#x0161;krinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-968"/>
+    </children>
+  </item>
+  <item nodeId="node-968">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-969"/>
+    </children>
+  </item>
+  <item nodeId="node-969">
+    <command xml:space="preserve">look under drveni stol </command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-970"/>
+    </children>
+  </item>
+  <item nodeId="node-970">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-971"/>
+    </children>
+  </item>
+  <item nodeId="node-971">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a kljuc&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-944">
+    <command xml:space="preserve">play klavir</command>
+    <result xml:space="preserve">Grozno zvu&#x010D;i&#x0161;, potrebno je u&#x0161;timati Klavir!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-945"/>
+      <child nodeId="node-947"/>
+    </children>
+  </item>
+  <item nodeId="node-945">
+    <command xml:space="preserve">play kauc</command>
+    <result xml:space="preserve">Kauc ne mo&#x017E;e&#x0161; svirati!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-946"/>
+    </children>
+  </item>
+  <item nodeId="node-946">
+    <command xml:space="preserve">play drveni stol </command>
+    <result xml:space="preserve">Drveni stol ne mo&#x017E;e&#x0161; svirati!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-947">
+    <command xml:space="preserve">tune klavir</command>
+    <result xml:space="preserve">Klavir je u&#x0161;timan i spreman za sviranje.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-948"/>
+    </children>
+  </item>
+  <item nodeId="node-948">
+    <command xml:space="preserve">tune klavir</command>
+    <result xml:space="preserve">Klavir je u&#x0161;timan i spreman za sviranje.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-949"/>
+    </children>
+  </item>
+  <item nodeId="node-949">
+    <command xml:space="preserve">play klavir</command>
+    <result xml:space="preserve">Prekrasno svira&#x0161; i zvu&#x010D;i odli&#x010D;no!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-950"/>
+    </children>
+  </item>
+  <item nodeId="node-950">
+    <command xml:space="preserve">play tabakera</command>
+    <result xml:space="preserve">Tabakera ne mo&#x017E;e&#x0161; svirati!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-951"/>
+    </children>
+  </item>
+  <item nodeId="node-951">
+    <command xml:space="preserve">tune tabakera</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-952"/>
+    </children>
+  </item>
+  <item nodeId="node-952">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-953"/>
+    </children>
+  </item>
+  <item nodeId="node-953">
+    <command xml:space="preserve">tune tabakera</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-954"/>
+    </children>
+  </item>
+  <item nodeId="node-954">
+    <command xml:space="preserve">d</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-955">
+    <command xml:space="preserve">play kauc</command>
+    <result xml:space="preserve">Kauc ne mo&#x017E;e&#x0161; svirati!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-956"/>
+    </children>
+  </item>
+  <item nodeId="node-956">
+    <command xml:space="preserve">play klavir</command>
+    <result xml:space="preserve">Klavir ne mo&#x017E;e&#x0161; svirati!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-957">
+    <command xml:space="preserve">tune tabakera</command>
+    <result xml:space="preserve">Tabakera ne mo&#x017E;e&#x0161; u&#x0161;timati!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-958"/>
+    </children>
+  </item>
+  <item nodeId="node-958">
+    <command xml:space="preserve">tune klavir</command>
+    <result xml:space="preserve">Klavir je u&#x0161;timan i spreman za sviranje.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-959"/>
+    </children>
+  </item>
+  <item nodeId="node-959">
+    <command xml:space="preserve">look kalvir</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-960"/>
+    </children>
+  </item>
+  <item nodeId="node-960">
+    <command xml:space="preserve">look klavir</command>
+    <result xml:space="preserve">Instrument za sviranje.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-961"/>
+    </children>
+  </item>
+  <item nodeId="node-961">
+    <command xml:space="preserve">play klavir</command>
+    <result xml:space="preserve">Prekrasno svira&#x0161; i zvu&#x010D;i odli&#x010D;no!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-964">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">U tabakeri se nalazi klju&#x010D;. &#x000A;Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-965"/>
+      <child nodeId="node-972"/>
+      <child nodeId="node-992"/>
+      <child nodeId="node-1009"/>
+    </children>
+  </item>
+  <item nodeId="node-965">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-972">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a kljuc&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-973"/>
+    </children>
+  </item>
+  <item nodeId="node-973">
+    <command xml:space="preserve">look table</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-974"/>
+    </children>
+  </item>
+  <item nodeId="node-974">
+    <command xml:space="preserve">look stol</command>
+    <result xml:space="preserve">Stari drveni stol sme&#x0111;e boje kojeg je prekrila pra&#x0161;ina. Ispod njega nalazi se mala i neobi&#x010D;na &#x0161;krinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-975"/>
+    </children>
+  </item>
+  <item nodeId="node-975">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-992">
+    <command xml:space="preserve">drop kljuc</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-993"/>
+    </children>
+  </item>
+  <item nodeId="node-993">
+    <command xml:space="preserve">take kljuc</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-994"/>
+    </children>
+  </item>
+  <item nodeId="node-994">
+    <command xml:space="preserve">inventor</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-995"/>
+    </children>
+  </item>
+  <item nodeId="node-995">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a kljuc&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1009">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">&#x0160;krinja! Prona&#x0161;ao sam &#x0161;krinju!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1010"/>
+    </children>
+  </item>
+  <item nodeId="node-1010">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-976">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">&#x0160;krinja! Prona&#x0161;ao sam &#x0161;krinju!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-977"/>
+      <child nodeId="node-982"/>
+    </children>
+  </item>
+  <item nodeId="node-977">
+    <command xml:space="preserve">look skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-978"/>
+      <child nodeId="node-981"/>
+    </children>
+  </item>
+  <item nodeId="node-978">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-981">
+    <command xml:space="preserve">look at skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-982">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-979">
+    <command xml:space="preserve">look under table</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-980"/>
+    </children>
+  </item>
+  <item nodeId="node-980">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">You find nothing of interest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-983">
+    <command xml:space="preserve">look stol</command>
+    <result xml:space="preserve">Stari drveni stol sme&#x0111;e boje kojeg je prekrila pra&#x0161;ina. Ispod njega nalazi se mala i neobi&#x010D;na &#x0161;krinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-984"/>
+    </children>
+  </item>
+  <item nodeId="node-984">
+    <command xml:space="preserve">look under table</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-985"/>
+    </children>
+  </item>
+  <item nodeId="node-985">
+    <command xml:space="preserve">look under stol </command>
+    <result xml:space="preserve">&#x0160;krinja! Prona&#x0161;ao sam &#x0161;krinju!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-986"/>
+    </children>
+  </item>
+  <item nodeId="node-986">
+    <command xml:space="preserve">look skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-987"/>
+    </children>
+  </item>
+  <item nodeId="node-987">
+    <command xml:space="preserve">look kauc</command>
+    <result xml:space="preserve">Oronuli kau&#x010D; na kojem se nalazi tabakera.&#x000A;&#x000A;On Kauc is Tabakera (closed).&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-988"/>
+    </children>
+  </item>
+  <item nodeId="node-988">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-989"/>
+    </children>
+  </item>
+  <item nodeId="node-989">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a kljuc&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-990"/>
+    </children>
+  </item>
+  <item nodeId="node-990">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-991"/>
+    </children>
+  </item>
+  <item nodeId="node-991">
+    <command xml:space="preserve">look skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-996">
+    <command xml:space="preserve">take kljuc</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-997"/>
+    </children>
+  </item>
+  <item nodeId="node-997">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">U tabakeri se nalazi klju&#x010D;. &#x000A;Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-998"/>
+    </children>
+  </item>
+  <item nodeId="node-998">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a kljuc&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-999"/>
+    </children>
+  </item>
+  <item nodeId="node-999">
+    <command xml:space="preserve">play klavir</command>
+    <result xml:space="preserve">Grozno zvu&#x010D;i&#x0161;, potrebno je u&#x0161;timati Klavir!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1000"/>
+    </children>
+  </item>
+  <item nodeId="node-1000">
+    <command xml:space="preserve">tune klavir</command>
+    <result xml:space="preserve">Klavir je u&#x0161;timan i spreman za sviranje.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1001"/>
+    </children>
+  </item>
+  <item nodeId="node-1001">
+    <command xml:space="preserve">play klavir</command>
+    <result xml:space="preserve">Prekrasno svira&#x0161; i odli&#x010D;no zvu&#x010D;i!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1002"/>
+    </children>
+  </item>
+  <item nodeId="node-1002">
+    <command xml:space="preserve">play kauc</command>
+    <result xml:space="preserve">Kauc ne mo&#x017E;e&#x0161; svirati!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1003"/>
+    </children>
+  </item>
+  <item nodeId="node-1003">
+    <command xml:space="preserve">play tabakera</command>
+    <result xml:space="preserve">Tabakera ne mo&#x017E;e&#x0161; svirati!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1004"/>
+    </children>
+  </item>
+  <item nodeId="node-1004">
+    <command xml:space="preserve">tune kauc</command>
+    <result xml:space="preserve">Kauc ne mo&#x017E;e&#x0161; u&#x0161;timati!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1005"/>
+    </children>
+  </item>
+  <item nodeId="node-1005">
+    <command xml:space="preserve">look kljuc</command>
+    <result xml:space="preserve">Klju&#x010D; za otvoriti &#x0161;krinju.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1006"/>
+    </children>
+  </item>
+  <item nodeId="node-1006">
+    <command xml:space="preserve">look stol</command>
+    <result xml:space="preserve">Stari drveni stol sme&#x0111;e boje kojeg je prekrila pra&#x0161;ina. Ispod njega nalazi se mala i neobi&#x010D;na &#x0161;krinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1007"/>
+    </children>
+  </item>
+  <item nodeId="node-1007">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">&#x0160;krinja! Prona&#x0161;ao sam &#x0161;krinju!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1008"/>
+    </children>
+  </item>
+  <item nodeId="node-1008">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1011">
+    <command xml:space="preserve">look drveni stol </command>
+    <result xml:space="preserve">Stari drveni stol sme&#x0111;e boje kojeg je prekrila pra&#x0161;ina. Ispod njega nalazi se mala i neobi&#x010D;na &#x0161;krinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1012"/>
+    </children>
+  </item>
+  <item nodeId="node-1012">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">&#x0160;krinja! Prona&#x0161;ao sam &#x0161;krinju!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1013"/>
+    </children>
+  </item>
+  <item nodeId="node-1013">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1014">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">Nemam kljuc za otvoriti &#x0161;krinju&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1017"/>
+      <child nodeId="node-1020"/>
+      <child nodeId="node-1026"/>
+      <child nodeId="node-1032"/>
+      <child nodeId="node-1037"/>
+      <child nodeId="node-1045"/>
+    </children>
+  </item>
+  <item nodeId="node-1017">
+    <command xml:space="preserve">look under stol</command>
+    <result xml:space="preserve">&#x0160;krinja! Prona&#x0161;ao sam &#x0161;krinju!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1018"/>
+      <child nodeId="node-1028"/>
+    </children>
+  </item>
+  <item nodeId="node-1018">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1019"/>
+    </children>
+  </item>
+  <item nodeId="node-1019">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1028">
+    <command xml:space="preserve">look skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1020">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1021"/>
+    </children>
+  </item>
+  <item nodeId="node-1021">
+    <command xml:space="preserve">open tabaker</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1022"/>
+    </children>
+  </item>
+  <item nodeId="node-1022">
+    <command xml:space="preserve">open tabaker&lt;</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1023"/>
+    </children>
+  </item>
+  <item nodeId="node-1023">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">U tabakeri se nalazi klju&#x010D;. &#x000A;Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1024"/>
+    </children>
+  </item>
+  <item nodeId="node-1024">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a kljuc&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1025"/>
+    </children>
+  </item>
+  <item nodeId="node-1025">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1026">
+    <command xml:space="preserve">opening skrinja</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1027"/>
+    </children>
+  </item>
+  <item nodeId="node-1027">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1032">
+    <command xml:space="preserve">look skrinja</command>
+    <result xml:space="preserve">Drvena &#x0161;krinja koja &#x010D;uva tajnu prelaska u tre&#x0107;u razinu. Zaklju&#x010D;ana je!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1033"/>
+    </children>
+  </item>
+  <item nodeId="node-1033">
+    <command xml:space="preserve">look kauc</command>
+    <result xml:space="preserve">Oronuli kau&#x010D; na kojem se nalazi tabakera.&#x000A;&#x000A;On Kauc is Tabakera (closed).&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1034"/>
+    </children>
+  </item>
+  <item nodeId="node-1034">
+    <command xml:space="preserve">look tabakera</command>
+    <result xml:space="preserve">Tabakera je kutija za cigarete te se mo&#x017E;e otvoriti.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1035"/>
+    </children>
+  </item>
+  <item nodeId="node-1035">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">U tabakeri se nalazi klju&#x010D;. &#x000A;Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1036"/>
+    </children>
+  </item>
+  <item nodeId="node-1036">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">&#x0160;krinju sam otvorio klju&#x010D;em.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1037">
+    <command xml:space="preserve">open tabakera</command>
+    <result xml:space="preserve">U tabakeri se nalazi klju&#x010D;. &#x000A;Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1038"/>
+    </children>
+  </item>
+  <item nodeId="node-1038">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">&#x0160;krinju sam otvorio klju&#x010D;em.&#x000A;U &#x0161;krinji se nalazi papir sa zanimljivom porukom! Bolje pogledaj u papir&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-1039"/>
+      <child nodeId="node-1041"/>
+      <child nodeId="node-1049"/>
+    </children>
+  </item>
+  <item nodeId="node-1039">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a kljuc&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1040"/>
+    </children>
+  </item>
+  <item nodeId="node-1040">
+    <command xml:space="preserve">close skrinja</command>
+    <result xml:space="preserve">That's already closed.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1041">
+    <command xml:space="preserve">close skrinja</command>
+    <result xml:space="preserve">You close skrinja.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1042"/>
+    </children>
+  </item>
+  <item nodeId="node-1042">
+    <command xml:space="preserve">look skrinja</command>
+    <result xml:space="preserve">Drvena &#x0161;krinja koja &#x010D;uva tajnu prelaska u tre&#x0107;u razinu. Zaklju&#x010D;ana je!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1043"/>
+    </children>
+  </item>
+  <item nodeId="node-1043">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">&#x0160;krinju sam otvorio klju&#x010D;em.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1044"/>
+    </children>
+  </item>
+  <item nodeId="node-1044">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">&#x0160;krinju sam otvorio klju&#x010D;em.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1049">
+    <command xml:space="preserve">look papir</command>
+    <result xml:space="preserve">Za prelazak u tre&#x0107;u razinu potrebno je zaplesati salsu! Znam da zna&#x0161; i zato kreni!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1050"/>
+    </children>
+  </item>
+  <item nodeId="node-1050">
+    <command xml:space="preserve">go s</command>
+    <result xml:space="preserve">(first opening Drugi portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1045">
+    <command xml:space="preserve">open tabakera </command>
+    <result xml:space="preserve">U tabakeri se nalazi klju&#x010D;. &#x000A;Klju&#x010D; za otklju&#x010D;avanje &#x0161;krinje je uspje&#x0161;no na&#x0111;en!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1046"/>
+    </children>
+  </item>
+  <item nodeId="node-1046">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">&#x0160;krinju sam otvorio klju&#x010D;em.&#x000A;U &#x0161;krinji se nalazi papir sa zanimljivom porukom! Bolje pogledaj u papir&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1047"/>
+    </children>
+  </item>
+  <item nodeId="node-1047">
+    <command xml:space="preserve">look at papir</command>
+    <result xml:space="preserve">You see nothing special about papir.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1048"/>
+    </children>
+  </item>
+  <item nodeId="node-1048">
+    <command xml:space="preserve">look skrinja</command>
+    <result xml:space="preserve">Drvena &#x0161;krinja koja &#x010D;uva tajnu prelaska u tre&#x0107;u razinu. Zaklju&#x010D;ana je!&#x000A;&#x000A;In skrinja is papir.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1015">
+    <command xml:space="preserve">open srinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1016"/>
+    </children>
+  </item>
+  <item nodeId="node-1016">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1029">
+    <command xml:space="preserve">look skrinja</command>
+    <result xml:space="preserve">Drvena &#x0161;krinja koja &#x010D;uva tajnu prelaska u tre&#x0107;u razinu. Zaklju&#x010D;ana je!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1030"/>
+    </children>
+  </item>
+  <item nodeId="node-1030">
+    <command xml:space="preserve">open skrinja</command>
+    <result xml:space="preserve">&#x0160;krinju sam otvorio klju&#x010D;em.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1031"/>
+    </children>
+  </item>
+  <item nodeId="node-1031">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1051">
+    <command xml:space="preserve">dance salsa</command>
+    <result xml:space="preserve">I only understood you as far as wanting to dance.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1052"/>
+    </children>
+  </item>
+  <item nodeId="node-1052">
+    <command xml:space="preserve">dance</command>
+    <result xml:space="preserve">Odli&#x010D;no ti ide. Otklju&#x010D;ao si prolaz u tre&#x0107;i nivo!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1053"/>
+    </children>
+  </item>
+  <item nodeId="node-1053">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening Drugi portal)&#x000A;&#x000A;Pustinjska oaza&#x000A;Ovdje je prostor za u&#x017E;ivanje gdje mo&#x017E;e&#x0161; pokazati svoj talent!&#x000A;&#x000A;You can see Drugi portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1061">
+    <command xml:space="preserve">look bijela kapa</command>
+    <result xml:space="preserve">Lagana bijela kapa koja te za&#x0161;ti&#x010D;uje od sunca. Slobodno je probaj!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-1062"/>
+      <child nodeId="node-1122"/>
+    </children>
+  </item>
+  <item nodeId="node-1062">
+    <command xml:space="preserve">take bijela kapa</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1063"/>
+    </children>
+  </item>
+  <item nodeId="node-1063">
+    <command xml:space="preserve">wear bijela kapa</command>
+    <result xml:space="preserve">You can't wear that!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1122">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening Treci portal)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1123"/>
+    </children>
+  </item>
+  <item nodeId="node-1123">
+    <command xml:space="preserve">look izvor vode</command>
+    <result xml:space="preserve">Svje&#x017E;a, hladna i pitka voda!&#x000A;&#x000A;In Izvor vode is Voda.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1124"/>
+    </children>
+  </item>
+  <item nodeId="node-1124">
+    <command xml:space="preserve">look staklena flasa</command>
+    <result xml:space="preserve">Ostavljena, prazna staklena fla&#x0161;a.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1125"/>
+    </children>
+  </item>
+  <item nodeId="node-1125">
+    <command xml:space="preserve">wear bijela kapa</command>
+    <result xml:space="preserve">(first taking Bijela kapa)&#x000A;You put on Bijela kapa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1126"/>
+    </children>
+  </item>
+  <item nodeId="node-1126">
+    <command xml:space="preserve">look voda</command>
+    <result xml:space="preserve">You see nothing special about Voda.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1127"/>
+    </children>
+  </item>
+  <item nodeId="node-1127">
+    <command xml:space="preserve">insert voda into flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je napunjena vodom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1128"/>
+    </children>
+  </item>
+  <item nodeId="node-1128">
+    <command xml:space="preserve">look flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je puna vode!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1129"/>
+    </children>
+  </item>
+  <item nodeId="node-1129">
+    <command xml:space="preserve">insert voda intp flasa</command>
+    <result xml:space="preserve">I didn't understand that sentence.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1130"/>
+    </children>
+  </item>
+  <item nodeId="node-1130">
+    <command xml:space="preserve">insert voda into flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je ve&#x0107; puna vode!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1131"/>
+    </children>
+  </item>
+  <item nodeId="node-1131">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening Treci portal)&#x000A;Do&#x0161;ao si do kraja igrice! &#x010C;estitam!&#x000A;&#x000A;&#x000A;&#x000A;    *** The End ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1064">
+    <command xml:space="preserve">wear kapa</command>
+    <result xml:space="preserve">(first taking Bijela kapa)&#x000A;You put on Bijela kapa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1065"/>
+    </children>
+  </item>
+  <item nodeId="node-1065">
+    <command xml:space="preserve">put down bijela kapa</command>
+    <result xml:space="preserve">(first taking Bijela kapa off)&#x000A;Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1066"/>
+    </children>
+  </item>
+  <item nodeId="node-1066">
+    <command xml:space="preserve">inventor&lt;</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1067"/>
+    </children>
+  </item>
+  <item nodeId="node-1067">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1068"/>
+    </children>
+  </item>
+  <item nodeId="node-1068">
+    <command xml:space="preserve">take bijela kapa</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1069"/>
+    </children>
+  </item>
+  <item nodeId="node-1069">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  Bijela kapa&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1070"/>
+    </children>
+  </item>
+  <item nodeId="node-1070">
+    <command xml:space="preserve">wear bijela kapa</command>
+    <result xml:space="preserve">You put on Bijela kapa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1071"/>
+    </children>
+  </item>
+  <item nodeId="node-1071">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  Bijela kapa (being worn)&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1072">
+    <command xml:space="preserve">wear bijela kapa</command>
+    <result xml:space="preserve">(first taking Bijela kapa)&#x000A;You put on Bijela kapa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1073"/>
+    </children>
+  </item>
+  <item nodeId="node-1073">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  Bijela kapa (being worn)&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1074"/>
+    </children>
+  </item>
+  <item nodeId="node-1074">
+    <command xml:space="preserve">wear off bijela kapa</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1075"/>
+    </children>
+  </item>
+  <item nodeId="node-1075">
+    <command xml:space="preserve">drop bijela kapa</command>
+    <result xml:space="preserve">(first taking Bijela kapa off)&#x000A;Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1076"/>
+    </children>
+  </item>
+  <item nodeId="node-1076">
+    <command xml:space="preserve">take  of bijela kapa</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1077"/>
+    </children>
+  </item>
+  <item nodeId="node-1077">
+    <command xml:space="preserve">wear bijela kapa</command>
+    <result xml:space="preserve">(first taking Bijela kapa)&#x000A;You put on Bijela kapa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1078"/>
+    </children>
+  </item>
+  <item nodeId="node-1078">
+    <command xml:space="preserve">take of bijela kapa</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1079"/>
+    </children>
+  </item>
+  <item nodeId="node-1079">
+    <command xml:space="preserve">take off bijela kapa</command>
+    <result xml:space="preserve">You take off Bijela kapa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1080">
+    <command xml:space="preserve">sit on lezaljka</command>
+    <result xml:space="preserve">That's not something you can sit down on.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1081"/>
+    </children>
+  </item>
+  <item nodeId="node-1081">
+    <command xml:space="preserve">sit on lezaljka</command>
+    <result xml:space="preserve">That's not something you can sit down on.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1082">
+    <command xml:space="preserve">get in lezaljka</command>
+    <result xml:space="preserve">That's not something you can enter.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1083">
+    <command xml:space="preserve">look lezaljka</command>
+    <result xml:space="preserve">Plasti&#x010D;na le&#x017E;aljka bijele boje. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1087">
+    <command xml:space="preserve">insert izvor podataka into flasa</command>
+    <result xml:space="preserve">I didn't understand that sentence.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1089"/>
+    </children>
+  </item>
+  <item nodeId="node-1089">
+    <command xml:space="preserve">insert izvor podatala into staklena flasa</command>
+    <result xml:space="preserve">I didn't understand that sentence.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1090"/>
+    </children>
+  </item>
+  <item nodeId="node-1090">
+    <command xml:space="preserve">insert izvor vode into staklena flasa</command>
+    <result xml:space="preserve">I only understood you as far as wanting to insert Izvor vode into Staklena falsa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1091"/>
+    </children>
+  </item>
+  <item nodeId="node-1091">
+    <command xml:space="preserve">insert voda into flasa</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1092"/>
+    </children>
+  </item>
+  <item nodeId="node-1092">
+    <command xml:space="preserve">insert voda into staklena flasa</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1093"/>
+    </children>
+  </item>
+  <item nodeId="node-1093">
+    <command xml:space="preserve">insert izvor podataka into staklena flasa</command>
+    <result xml:space="preserve">I didn't understand that sentence.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1094"/>
+    </children>
+  </item>
+  <item nodeId="node-1094">
+    <command xml:space="preserve">insert izvor vode into staklena flasa</command>
+    <result xml:space="preserve">I only understood you as far as wanting to insert Izvor vode into Staklena falsa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1095"/>
+    </children>
+  </item>
+  <item nodeId="node-1095">
+    <command xml:space="preserve">look flasa</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1096"/>
+    </children>
+  </item>
+  <item nodeId="node-1096">
+    <command xml:space="preserve">look staklena flasa</command>
+    <result xml:space="preserve">I only understood you as far as wanting to look Staklena falsa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1097">
+    <command xml:space="preserve">look staklena flasa</command>
+    <result xml:space="preserve">Ostavljena, prazna staklena fla&#x0161;a.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-1098"/>
+      <child nodeId="node-1103"/>
+    </children>
+  </item>
+  <item nodeId="node-1098">
+    <command xml:space="preserve">look at flasa</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1099"/>
+    </children>
+  </item>
+  <item nodeId="node-1099">
+    <command xml:space="preserve">look staklena</command>
+    <result xml:space="preserve">You see nothing special about Staklena falsa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1103">
+    <command xml:space="preserve">look flasa</command>
+    <result xml:space="preserve">Ostavljena, prazna staklena fla&#x0161;a.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1104"/>
+    </children>
+  </item>
+  <item nodeId="node-1104">
+    <command xml:space="preserve">look staklena</command>
+    <result xml:space="preserve">Ostavljena, prazna staklena fla&#x0161;a.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1105"/>
+    </children>
+  </item>
+  <item nodeId="node-1105">
+    <command xml:space="preserve">insert voda into staklena flasa</command>
+    <result xml:space="preserve">Boca je napunjena.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1100">
+    <command xml:space="preserve">look flasa</command>
+    <result xml:space="preserve">Ostavljena, prazna staklena fla&#x0161;a.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1101"/>
+      <child nodeId="node-1110"/>
+    </children>
+  </item>
+  <item nodeId="node-1101">
+    <command xml:space="preserve">look staklena</command>
+    <result xml:space="preserve">You see nothing special about Staklena falsa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1102"/>
+    </children>
+  </item>
+  <item nodeId="node-1102">
+    <command xml:space="preserve">look staklena flasa</command>
+    <result xml:space="preserve">I only understood you as far as wanting to look Staklena falsa.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1110">
+    <command xml:space="preserve">insert voda into flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je napunjena vodom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1111"/>
+      <child nodeId="node-1112"/>
+    </children>
+  </item>
+  <item nodeId="node-1111">
+    <command xml:space="preserve">look flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je puna vode!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1112">
+    <command xml:space="preserve">insert voda into flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je ve&#x0107; puna vode!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1113"/>
+    </children>
+  </item>
+  <item nodeId="node-1113">
+    <command xml:space="preserve">look flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je puna vode!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1106">
+    <command xml:space="preserve">insert voda into staklena flasa</command>
+    <result xml:space="preserve">Boca je napunjena vodom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1107"/>
+    </children>
+  </item>
+  <item nodeId="node-1107">
+    <command xml:space="preserve">look izvor vode</command>
+    <result xml:space="preserve">Svje&#x017E;a, hladna i pitka voda!&#x000A;&#x000A;In Izvor vode is Voda.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1108"/>
+    </children>
+  </item>
+  <item nodeId="node-1108">
+    <command xml:space="preserve">look boca</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1109"/>
+    </children>
+  </item>
+  <item nodeId="node-1109">
+    <command xml:space="preserve">look staklena flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je napunjena vodom!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1114">
+    <command xml:space="preserve">look beduin</command>
+    <result xml:space="preserve">Pustinjski nomad. Mo&#x017E;e&#x0161; ga pitati o staklenoj boci.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-1115"/>
+      <child nodeId="node-1132"/>
+    </children>
+  </item>
+  <item nodeId="node-1115">
+    <command xml:space="preserve">ask beduin about staklena flasa</command>
+    <result xml:space="preserve">Ukoliko napuni&#x0161; staklenu fla&#x0161;u vodom tada prelazi&#x0161; level!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1116"/>
+    </children>
+  </item>
+  <item nodeId="node-1116">
+    <command xml:space="preserve">ask beduin about staklena</command>
+    <result xml:space="preserve">Ukoliko napuni&#x0161; staklenu fla&#x0161;u vodom tada prelazi&#x0161; level!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1117"/>
+    </children>
+  </item>
+  <item nodeId="node-1117">
+    <command xml:space="preserve">ask beduin about flasa</command>
+    <result xml:space="preserve">Ukoliko napuni&#x0161; staklenu fla&#x0161;u vodom tada prelazi&#x0161; level!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1118"/>
+    </children>
+  </item>
+  <item nodeId="node-1118">
+    <command xml:space="preserve">insert voda into flasa</command>
+    <result xml:space="preserve">Staklena fla&#x0161;a je napunjena vodom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1119"/>
+    </children>
+  </item>
+  <item nodeId="node-1119">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">(first opening Treci portal)&#x000A;Do&#x0161;ao si do kraja igrice! &#x010C;estitam!&#x000A;&#x000A;&#x000A;&#x000A;    *** The End ***&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-1132">
+    <command xml:space="preserve">ask beduin about flasa</command>
+    <result xml:space="preserve">Ukoliko napuni&#x0161; staklenu fla&#x0161;u vodom tada prelazi&#x0161; level!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1133"/>
+    </children>
+  </item>
+  <item nodeId="node-1133">
+    <command xml:space="preserve">loook bijela kapa</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-1134"/>
+    </children>
+  </item>
+  <item nodeId="node-1134">
+    <command xml:space="preserve">look bijela kapa</command>
+    <result xml:space="preserve">Lagana bijela kapa koja te za&#x0161;ti&#x010D;uje od sunca. Slobodno je probaj!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+</Skein>
