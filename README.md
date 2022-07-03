@@ -1,0 +1,1 @@
+# Deklerativno-programiranje
